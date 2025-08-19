@@ -3,7 +3,7 @@ local Player = game.Players.LocalPlayer
 
 local SupportExecutor = {
 	Windows = { "Velocity", "Zenith", "Volcano", "Ronix", "Bunni" },
-	Android = { "Krnl", "Delta", "Codex", "RonixExploit Android" },
+	Android = { "Krnl", "Delta", "Codex", "Ronix" },
 	IOS = { "Delta", "Krnl" },
 }
 
