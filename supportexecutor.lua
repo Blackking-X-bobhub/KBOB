@@ -2,7 +2,7 @@ local UserInputService = game:GetService('UserInputService');
 local Player = game.Players.LocalPlayer
 
 local SupportExecutor = {
-	Windows = { "Velocity", "Zenith", "Volcano", "Ronix", "Bunni" },
+	Windows = { "Velocity", "Zenith", "Volcano", "Ronix", "Bunni", "Nucleus", "Swift" },
 	Android = { "Krnl", "Delta", "Codex", "Ronix" },
 	IOS = { "Delta", "Krnl" },
 }
